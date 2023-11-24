@@ -1,0 +1,13 @@
+current directory: /Users/krishna/Desktop/Plenafinance/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+/Users/krishna/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/krishna/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20231122-58830-crxm1y.rb extconf.rb
+creating Makefile
+
+current directory: /Users/krishna/Desktop/Plenafinance/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/krishna/Desktop/Plenafinance/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/krishna/Desktop/Plenafinance/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
